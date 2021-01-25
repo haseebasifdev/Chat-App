@@ -1,4 +1,4 @@
-# Chat-App
+# Chat-App (Learning socket.io)
 Working with React and Socket.io for making it real time
 
 ## Live
